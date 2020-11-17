@@ -1,0 +1,55 @@
+[{
+        "id":1,
+        "name":"qz",
+        "country":"Chinese",
+        "description":"A professional CSGO player from China",
+        "link":"https://www.douyu.com/",
+        "image":"1.jpg"
+        
+},
+{
+        "id":2,
+        "name":"DGQ",
+        "country":"Chinese",
+        "description":"A professional CSGO player from China",
+        "link":"https://www.douyu.com/",
+        "image":"2.jpg"
+        
+},
+{
+        "id":3,
+        "name":"XQ",
+        "country":"Chinese",
+        "description":"A professional CSGO player from China",
+        "link":"https://www.douyu.com/",
+        "image":"3.jpg"
+        
+},
+{
+        "id":4,
+        "name":"QKA",
+        "country":"Chinese",
+        "description":"A professional CSGO player from China",
+        "link":"https://www.douyu.com/",
+        "image":"4.jpg"
+        
+},
+{
+        "id":5,
+        "name":"Sukale",
+        "country":"Chinese",
+        "description":"A professional CSGO player from China",
+        "link":"https://www.douyu.com/",
+        "image":"5.jpg"
+        
+},
+{
+        "id":6,
+        "name":"MAOZI",
+        "country":"Russia",
+        "description":"A professional CSGO player from Russia",
+        "link":"https://www.douyu.com/",
+        "image":"6.jpg"
+        
+}
+]

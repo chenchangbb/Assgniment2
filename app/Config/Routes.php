@@ -30,9 +30,9 @@ $routes->setAutoRoute(true);
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
-$routes->get('/', 'Home::index');
+$routes->get('/', 'travel::index');
 $routes->get('/image/(:any)', 'Media::image/$1');
-
+$routes->get('/heroes', 'travel::index');
 /**
  * --------------------------------------------------------------------
  * Additional Routing
